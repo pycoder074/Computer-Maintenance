@@ -34,6 +34,6 @@ This repository contains a batch script to perform various system maintenance ta
    ```
    maintenance.bat
    ```
-   ##Contributing
+   ## Contributing
    We welcome contributions! Just create a branch, issue or pull request for your feature and we will add it asap!
    
