@@ -1,6 +1,12 @@
 # Windows System Maintenance Script
 
-This repository contains a batch script to perform various system maintenance tasks on a Windows machine. These tasks are aimed at optimizing system performance and resolving common issues.
+This repository contains a batch script to perform various system maintenance tasks on a **Windows** machine. These tasks are aimed at optimizing system performance and resolving common issues.
+
+---
+If you would like a linux version, just program it and create a pull
+request! I don't have a linux machine so I can't do it
+
+---
 
 ## Features
 
